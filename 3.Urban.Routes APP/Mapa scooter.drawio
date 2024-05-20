@@ -1,0 +1,136 @@
+<mxfile host="Electron" modified="2024-05-20T22:30:35.177Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.4.0 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="K5507qXbthm6vlzxz_oB" version="24.4.0" type="device">
+  <diagram name="Página-1" id="fmK-F3-Szq7w0x_fkSWs">
+    <mxGraphModel dx="2880" dy="2862" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="RN2NGvTBIVbJixbtB4GH-1" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" parent="1" vertex="1">
+          <mxGeometry x="180" y="-1000" width="20" height="470" as="geometry" />
+        </mxCell>
+        <mxCell id="RN2NGvTBIVbJixbtB4GH-2" value="Seção Superior" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="200" y="-1000" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RN2NGvTBIVbJixbtB4GH-3" value="Folder Promo Scooter" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="10" y="-770" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="RN2NGvTBIVbJixbtB4GH-4" value="Seção Inferior" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="200" y="-550" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RN2NGvTBIVbJixbtB4GH-5" value="Formulário de Pré Venda" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="200" y="-775" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RN2NGvTBIVbJixbtB4GH-6" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" parent="1" vertex="1">
+          <mxGeometry x="340" y="-1045" width="20" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="RN2NGvTBIVbJixbtB4GH-7" value="Temporizador" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="370" y="-1060" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RN2NGvTBIVbJixbtB4GH-8" value="Botão Pré Venda" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="370" y="-1020" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RN2NGvTBIVbJixbtB4GH-9" value="Botão Detalhes" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="370" y="-980" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RN2NGvTBIVbJixbtB4GH-10" value="Texto Informativo" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="370" y="-940" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RN2NGvTBIVbJixbtB4GH-11" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" parent="1" vertex="1">
+          <mxGeometry x="340" y="-820" width="20" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="RN2NGvTBIVbJixbtB4GH-12" value="Contador" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="370" y="-816" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RN2NGvTBIVbJixbtB4GH-13" value="Campos do Formulário" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="370" y="-776" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RN2NGvTBIVbJixbtB4GH-14" value="Botão Pedido" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="370" y="-736" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RN2NGvTBIVbJixbtB4GH-16" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" parent="1" vertex="1">
+          <mxGeometry x="530" y="-910" width="20" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="RN2NGvTBIVbJixbtB4GH-17" value="Campo Nome" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="560" y="-922" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RN2NGvTBIVbJixbtB4GH-18" value="Campo Sobrenome" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="560" y="-846" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RN2NGvTBIVbJixbtB4GH-19" value="Campo Email" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="560" y="-740" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RN2NGvTBIVbJixbtB4GH-20" value="Campo Telefone" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="560" y="-630" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RN2NGvTBIVbJixbtB4GH-22" value="" style="line;strokeWidth=2;html=1;" parent="1" vertex="1">
+          <mxGeometry x="496" y="-770" width="30" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="RN2NGvTBIVbJixbtB4GH-23" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="685" y="-904" as="sourcePoint" />
+            <mxPoint x="710" y="-904" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RN2NGvTBIVbJixbtB4GH-24" value="Letras Latinas" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="718" y="-920" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RN2NGvTBIVbJixbtB4GH-25" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="686" y="-832" as="sourcePoint" />
+            <mxPoint x="711" y="-832" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RN2NGvTBIVbJixbtB4GH-26" value="Letras Latinas" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="719" y="-847" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RN2NGvTBIVbJixbtB4GH-27" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="686" y="-724.6700000000001" as="sourcePoint" />
+            <mxPoint x="720" y="-726" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RN2NGvTBIVbJixbtB4GH-28" value="Letras Latinas" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="756" y="-800" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RN2NGvTBIVbJixbtB4GH-29" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" parent="1" vertex="1">
+          <mxGeometry x="730" y="-785" width="20" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="RN2NGvTBIVbJixbtB4GH-30" value="Números" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="756" y="-762" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RN2NGvTBIVbJixbtB4GH-31" value="Hifen" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="756" y="-724" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RN2NGvTBIVbJixbtB4GH-32" value="Ponto" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="756" y="-685" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RN2NGvTBIVbJixbtB4GH-33" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="686" y="-614" as="sourcePoint" />
+            <mxPoint x="711" y="-614" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RN2NGvTBIVbJixbtB4GH-34" value="Números" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="756" y="-640" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RN2NGvTBIVbJixbtB4GH-35" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" parent="1" vertex="1">
+          <mxGeometry x="730" y="-630" width="20" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="RN2NGvTBIVbJixbtB4GH-36" value="Sinal de +" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="756" y="-600" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RN2NGvTBIVbJixbtB4GH-41" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" parent="1" vertex="1">
+          <mxGeometry x="340" y="-595" width="20" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="RN2NGvTBIVbJixbtB4GH-42" value="Link Idioma" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="370" y="-591" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RN2NGvTBIVbJixbtB4GH-43" value="Link Acordo de usuário" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="370" y="-551" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RN2NGvTBIVbJixbtB4GH-44" value="Link Sugestões" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="370" y="-511" width="120" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
