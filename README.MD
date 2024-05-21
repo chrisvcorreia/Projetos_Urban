@@ -1,6 +1,6 @@
 # Projetos Urban
 
-<img src="Projetos_Urban\Imagens\tt2.jpg">
+<img src="Imagens\tt2.jpg">
 
 ### 1.Urban.Scooter APP
 
